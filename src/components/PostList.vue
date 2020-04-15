@@ -1,9 +1,9 @@
 <template>
     <div>
-        <h1>Blog Posts</h1>
+        <h1>Artigos</h1>
         <p>
-            This is a list of my recent blog posts/articles.
-            If you are RSS/Atom user you can subscribe to RSS feed of my blog posts <a :href="`https://${this.getHost()}/rss`">here</a>.
+            Aqui você encontra uma lista com meus últimos artigos.
+            <!-- If you are RSS/Atom user you can subscribe to RSS feed of my blog posts <a :href="`https://${this.getHost()}/rss`">here</a>. -->
         </p>
         <span>
             <ul v-if="!postListEmpty" class="post-list">

@@ -86,7 +86,7 @@ export default {
     }
 
     .networks li:hover {
-        color: #d480aa;
+        color: #0088cd;
         cursor: pointer;
     }
 </style>

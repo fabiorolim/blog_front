@@ -23,7 +23,7 @@ export default {
         display: block;
         margin-right: 16px;
         min-width: 100px;
-        color: #666;
+        color: #556677;
         font-size: 14px;
     }
 </style>

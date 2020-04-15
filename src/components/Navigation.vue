@@ -85,11 +85,11 @@ export default {
 
 <style>
     #header-post #menu-icon:hover {
-        color: #2bbc8a;
+        color:#0088cd;
     }
 
     #header-post #menu-icon-tablet:hover {
-        color: #2bbc8a;
+        color: #0088cd;
     }
     #header-post #top-icon-tablet {
         position: fixed;
@@ -99,10 +99,10 @@ export default {
         margin-left: 15px;
     }
     #header-post #top-icon-tablet:hover {
-        color: #2bbc8a;
+        color: #0088cd;
     }
     #header-post .active {
-        color: #2bbc8a;
+        color: #0088cd;
     }
 
     #menu-icon, #menu-icon-tablet, #top-icon-tablet {
@@ -113,7 +113,7 @@ export default {
         color: #c9cacc;
     }
     .menu-active {
-        color: #2bbc8a;
+        color: #0088cd;
     }
 
     #toc {
@@ -126,7 +126,7 @@ export default {
     }
 
     #header-post #nav {
-        color: #2bbc8a;
+        color: #c9cacc;
         letter-spacing: 0.01em;
         font-weight: 200;
         font-style: normal;
@@ -137,16 +137,17 @@ export default {
     }
     #header-post #nav ul a {
         margin-right: 18px;
-        color: #2bbc8a;
+        color: #c9cacc;
     }
     #header-post #nav ul a:hover {
-        background-image: linear-gradient(transparent, transparent 5px, #2bbc8a 5px, #2bbc8a);
+        background-image: linear-gradient(transparent, transparent 5px, #0088cd 5px, #0088cd);
         background-position: bottom;
         background-size: 100% 6px;
         background-repeat: repeat-x;
+        color: #0088cd;
     }
     #header-post #nav ul li {
-        border-right: 1px dotted #2bbc8a;
+        border-right: 1px dotted #0088cd;
     }
     #header-post #nav ul li:last-child {
         margin-right: 0;

@@ -130,7 +130,7 @@ export default {
         padding-left: 1rem;
         padding-top: 1.1rem;
         padding-right: 1rem;
-        color: #2bbc8a;
+        color: #0088cd;
     }
     .footer-action-text {
         position: relative;
@@ -139,7 +139,7 @@ export default {
     }
 
     .content a {
-        color: #2bbc8a !important;
+        color: #0088cd !important;
         text-decoration: none !important;
         background-image: linear-gradient(transparent, transparent, transparent, transparent);
     }

@@ -1,7 +1,7 @@
 <template>
     <footer id="footer">
         <div class="footer-left">
-            Copyright &copy; 2019 Martin Heinz
+            Copyright &copy; 2020 Fábio Rolim | Inspired by <a href="https://martinheinz.dev">martinhez.dev</a>
         </div>
         <div class="footer-right">
             <nav>
@@ -36,10 +36,10 @@ export default {
         bottom: 0;
         margin-bottom: 10px;
         width: 100%;
-        color: #666;
+        color: #556677;
         vertical-align: top;
         text-align: center;
-        font-size: 11px;
+        font-size: 12px;
     }
     #footer ul {
         margin: 0;
@@ -49,7 +49,7 @@ export default {
     #footer li {
         display: inline-block;
         margin-right: 15px;
-        border-right: 1px solid #666;
+        border-right: 1px solid #556677;
         vertical-align: middle;
     }
     #footer li a {
@@ -63,12 +63,12 @@ export default {
         margin-right: 0;
     }
     #footer a {
-        color: #666;
+        color: #556677;
         text-decoration: underline;
         background-image: none;
     }
     #footer a:hover {
-        color: #858585;
+        color: #0088cd;
     }
     #footer .footer-left {
         height: 20px;
@@ -100,7 +100,7 @@ export default {
         left: 0;
         z-index: 5000000;
         width: 100%;
-        border-top: 1px solid #666;
+        border-top: 1px solid #556677;
         background: #212326;
         transition: opacity 0.2s;
     }
@@ -113,7 +113,7 @@ export default {
         background: none;
     }
     #footer-post a.icon:hover {
-        color: #d480aa;
+        color: #0088cd;
     }
     #footer-post #nav-footer {
         padding-right: 1rem;
@@ -122,11 +122,11 @@ export default {
         text-align: center;
     }
     #footer-post #nav-footer a {
-        color: #2bbc8a;
+        color: #0088cd;
         font-size: 1em;
     }
     #footer-post #nav-footer a:hover {
-        background-image: linear-gradient(transparent, transparent 5px, #2bbc8a 5px, #2bbc8a);
+        background-image: linear-gradient(transparent, transparent 5px, #0088cd 5px, #0088cd);
         background-position: bottom;
         background-size: 100% 6px;
         background-repeat: repeat-x;
@@ -157,7 +157,7 @@ export default {
     #footer-post #actions-footer a {
         display: inline-block;
         padding-left: 1rem;
-        color: #2bbc8a;
+        color: #0088cd;
     }
     #footer-post #share-footer {
         padding-right: 1rem;

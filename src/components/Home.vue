@@ -1,7 +1,7 @@
 <template>
     <div class="content">
-        <h1 class="title">Martin Heinz</h1>
-        <h1 class="subtitle">Personal Website & Blog</h1>
+        <h1 class="title">Fábio Rolim</h1>
+        <h1 class="subtitle">Site pessoal e blog | Software e Tecnologia.</h1>
         <About></About>
         <PostList></PostList>
         <Projects></Projects>
@@ -12,30 +12,30 @@
 
 <script>
 import About from '@/components/About.vue';
-import BookList from '@/components/BookList.vue';
+// import BookList from '@/components/BookList.vue';
 import PostList from '@/components/PostList.vue';
 import Contact from '@/components/Contact.vue';
-import Projects from '@/components/Projects.vue';
+// import Projects from '@/components/Projects.vue';
 
 export default {
     name: 'Home',
     components: {
         About,
         PostList,
-        BookList,
+        // BookList,
         Contact,
-        Projects,
+        // Projects,
     },
 };
 </script>
 
 <style scoped>
     .title {
-        font-size: 2em;
+        font-size: 2.2em;
     }
     .subtitle {
         font-size: 1.2em;
-        color: #666;
+        color: #556677;
         margin-top: -4px;
         margin-bottom: -4px;
     }

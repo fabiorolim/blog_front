@@ -1,2 +1,2 @@
-export const API_URL = `https://${process.env.VUE_APP_API_URL}:1234/api/v1/`;
+export const API_URL = `http://${process.env.VUE_APP_API_URL}:8000/api/`;
 export default API_URL;

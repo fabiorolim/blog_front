@@ -54,10 +54,10 @@ export default {
         max-width: 72rem;
         margin: 0;
         height: 100%;
-        background-color: #1d1f21;
+        background-color: #1d1f26;
         color: #c9cacc;
         font-weight: 400;
-        font-size: 14px;
+        font-size: 15px;
         font-family: "Menlo", "Meslo LG", monospace;
         line-height: 1.725;
         text-rendering: geometricPrecision;

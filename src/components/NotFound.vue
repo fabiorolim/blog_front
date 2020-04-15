@@ -1,5 +1,5 @@
 <template>
-    <h1>The Page you are looking for is not there...</h1>
+    <h1>Ops! Página não encontrada! :(</h1>
 </template>
 
 <script>

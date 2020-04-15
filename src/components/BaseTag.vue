@@ -15,7 +15,7 @@ export default {
 <style>
 
     .tag-link {
-        background-image: linear-gradient(transparent, transparent 10px, #d480aa 10px, #d480aa);
+        background-image: linear-gradient(transparent, transparent 10px, #0088cd 10px, #0088cd);
         background-position: bottom;
         background-size: 100% 6px;
         background-repeat: repeat-x;
