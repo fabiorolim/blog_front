@@ -325,7 +325,7 @@ body .h1 {
     letter-spacing: 0.01em;
     font-weight: 700;
     font-style: normal;
-    font-size: 2em;
+    font-size: 1.4rem;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 }
@@ -443,7 +443,7 @@ body td {
 }
 body {
     height: 100%;
-    background-color: #1d1f21;
+    background-color: #1d1f26;
     color: #c9cacc;
     font-display: swap;
     font-weight: 400;

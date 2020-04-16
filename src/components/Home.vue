@@ -31,7 +31,7 @@ export default {
 
 <style scoped>
     .title {
-        font-size: 2.2em;
+        font-size: 2em;
     }
     .subtitle {
         font-size: 1.2em;
