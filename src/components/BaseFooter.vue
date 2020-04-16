@@ -1,7 +1,8 @@
 <template>
     <footer id="footer">
         <div class="footer-left">
-            Copyright &copy; 2020 Fábio Rolim | Inspired by <a href="https://martinheinz.dev">martinhez.dev</a>
+            Copyright &copy; 2020 Fábio Rolim | Inspired by <a href="https://martinheinz.dev">martinhez.dev</a> | 
+            Feito com <a href="https://vuejs.org">Vue.js</a> e <a href="https://www.djangoproject.com">Django.</a>
         </div>
         <div class="footer-right">
             <nav>

@@ -112,9 +112,9 @@ export default {
         padding: 8px 15px;
         margin: 8px 0;
         box-sizing: border-box;
-        border: 2px solid #2bbc8a;
+        border: 2px solid #0088cd;
         border-radius: 4px;
-        background-color: #1d1f21;
+        background-color: #1d1f26;
         color: white;
     }
 
@@ -122,15 +122,15 @@ export default {
         width: 30%;
         padding: 8px 15px;
         box-sizing: border-box;
-        border: 2px solid #2bbc8a;
+        border: 2px solid #0088cd;
         border-radius: 4px;
-        background-color: #2bbc8a;
+        background-color: #0088cd;
         color: white;
     }
 
     input[type=text]:focus, input[type=email]:focus {
         outline: none;
-        border: 2px solid #d480aa;
+        border: 2px solid #0088cd;
     }
 
     @media screen and (max-width: 720px) {
